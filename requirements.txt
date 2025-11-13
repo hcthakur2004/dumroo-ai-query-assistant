@@ -1,15 +1,15 @@
 streamlit==1.29.0
 
-# LangChain core (compatible with python 3.13)
+# LangChain (works with Python 3.13)
 langchain==0.3.7
 
-# Google GenAI integration (requires < 0.8)
+# Google GenAI integration (requires google-generativeai<0.8)
 langchain-google-genai==2.0.0
 
-# EXP tools (last supported version)
+# Experimental tools (latest available version)
 langchain-experimental==0.0.65
 
-# Google GenAI (must be <0.8)
+# Google Generative AI — must be <0.8.0
 google-generativeai==0.7.2
 
 # Pandas compatible with Python 3.13
